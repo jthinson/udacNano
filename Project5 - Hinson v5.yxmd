@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="1">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="114" y="438" />
+        <Position x="18" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -56,7 +56,7 @@
     </Node>
     <Node ToolID="2">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="114" y="306" />
+        <Position x="18" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -99,7 +99,7 @@
     </Node>
     <Node ToolID="3">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="606" y="546" />
+        <Position x="678" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -152,7 +152,7 @@
     </Node>
     <Node ToolID="4">
       <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-        <Position x="714" y="354" />
+        <Position x="546" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -176,7 +176,7 @@
     </Node>
     <Node ToolID="5">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
-        <Position x="210" y="306" />
+        <Position x="114" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -218,7 +218,7 @@
     </Node>
     <Node ToolID="6">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="498" y="366" />
+        <Position x="366" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -235,7 +235,7 @@
     </Node>
     <Node ToolID="7">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="702" y="546" />
+        <Position x="774" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -258,7 +258,7 @@
     </Node>
     <Node ToolID="8">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="306" y="438" />
+        <Position x="186" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -283,7 +283,7 @@
     </Node>
     <Node ToolID="9">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="798" y="546" />
+        <Position x="870" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -302,7 +302,7 @@
     </Node>
     <Node ToolID="10">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="990" y="306" />
+        <Position x="1134" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -321,7 +321,7 @@
     </Node>
     <Node ToolID="11">
       <GuiSettings>
-        <Position x="1182" y="366" />
+        <Position x="1326" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -355,7 +355,7 @@
     </Node>
     <Node ToolID="12">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="618" y="354" />
+        <Position x="474" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -376,7 +376,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="13">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="786" y="354" />
+        <Position x="942" y="414" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -397,7 +397,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="15">
       <GuiSettings>
-        <Position x="1662" y="294" />
+        <Position x="1806" y="354" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -428,11 +428,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="18">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="1746" y="234" />
+        <Position x="1902" y="294" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_dd0c73285cd640bfb468598f6060b50a_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_e169b8414da84d53a555bd7cf2612b6f_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -456,7 +456,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="19">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
-        <Position x="210" y="438" />
+        <Position x="114" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -518,7 +518,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="21">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="414" y="366" />
+        <Position x="294" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -549,7 +549,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="23">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="894" y="366" />
+        <Position x="1038" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -580,7 +580,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="24">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="1098" y="366" />
+        <Position x="1230" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -599,7 +599,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="25">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1362" y="378" />
+        <Position x="1518" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -630,7 +630,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="26">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1470" y="330" />
+        <Position x="1614" y="390" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -661,7 +661,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="27">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1470" y="426" />
+        <Position x="1614" y="486" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -692,7 +692,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="29">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1566" y="318" />
+        <Position x="1710" y="378" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -723,7 +723,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="30">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="1566" y="414" />
+        <Position x="1710" y="474" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -754,7 +754,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="31">
       <GuiSettings>
-        <Position x="1662" y="390" />
+        <Position x="1806" y="450" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -785,11 +785,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="32">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="1758" y="462" />
+        <Position x="1902" y="522" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_29238ed24a224b7c8db28966551fe65d_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_c1702fc982bf4f6daccc1450e5bb491b_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -813,7 +813,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="33">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="1830" y="378" />
+        <Position x="1902" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -832,7 +832,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="34">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1962" y="522" />
+        <Position x="2034" y="582" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -863,11 +863,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="35">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2118" y="618" />
+        <Position x="2190" y="678" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_db776180b92c420ebc8963ce4dfd987f_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_bce1e26c780d4aba9774829644ee415a_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -891,7 +891,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="36">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1182" y="414" />
+        <Position x="1326" y="474" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -914,7 +914,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-        <Position x="1278" y="414" />
+        <Position x="1422" y="474" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -932,7 +932,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="38">
       <GuiSettings>
-        <Position x="2238" y="30" />
+        <Position x="2310" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -968,7 +968,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="39">
       <GuiSettings>
-        <Position x="2238" y="126" />
+        <Position x="2310" y="186" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1004,7 +1004,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="40">
       <GuiSettings>
-        <Position x="2238" y="198" />
+        <Position x="2310" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1040,7 +1040,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="41">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="2106" y="522" />
+        <Position x="2178" y="582" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1071,7 +1071,7 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="20">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="306" y="306" />
+        <Position x="186" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1092,11 +1092,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="42">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2358" y="66" />
+        <Position x="2430" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_95aaddb2fe834461a4face6dbf70d2fb_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_a9221b4bfa844d308c410fd6876002c3_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1120,11 +1120,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="43">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2334" y="150" />
+        <Position x="2406" y="210" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_957d01c9ad0a4eb7903d1d4ad89991c9_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_ef722289902645fc9867c171f7135158_.yxdb</TempFile>
           <Layout>
             <View1>
               <Hints>
@@ -1143,11 +1143,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="44">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2334" y="222" />
+        <Position x="2406" y="282" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_c7501daa24534eb2a9c762e11d5348b1_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_38e64eea3227456da220f7c91ef8552b_.yxdb</TempFile>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
@@ -1159,11 +1159,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="45">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2358" y="-6" />
+        <Position x="2430" y="54" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_a5d4c601bae64c939e1fb0011aef04d1_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_8792249bbeaa48eca784da30495521de_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1187,11 +1187,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="46">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2346" y="102" />
+        <Position x="2418" y="162" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_eb0e625be705450e827f167341fc7bae_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_69b4c59452c04941a676aa406d2ce968_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1215,11 +1215,11 @@ week_start =...</DefaultAnnotationText>
     </Node>
     <Node ToolID="47">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2346" y="186" />
+        <Position x="2418" y="246" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_12520_cd08e089912249bfb95bc2602d53740a_\Engine_17088_e469674d692e418cbea2106aa732d81e_.yxdb</TempFile>
+          <TempFile>C:\Users\JUSTIN~1.HIN\AppData\Local\Temp\Engine_17228_fc878a8ae5e945c2ac337ca0a061021e_\Engine_17088_39bde44023ba4fb4844aede90cf7e4dd_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1241,6 +1241,88 @@ week_start =...</DefaultAnnotationText>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
     </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="666" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="StoreID" action="GroupBy" rename="StoreID" />
+            <SummarizeField field="week2" action="CountNonNull" rename="count" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="858" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="StoreID" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="StoreID" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_StoreID" selected="False" input="Left_" />
+                <SelectField field="Left_Count" selected="False" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="762" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Count</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2021-10-12 08:54:38</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>76</Operand>
+              <StartDate>2021-10-12 08:54:38</StartDate>
+              <EndDate>2021-10-12 08:54:38</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Count] = 76</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
   </Nodes>
   <Connections>
     <Connection>
@@ -1257,7 +1339,15 @@ week_start =...</DefaultAnnotationText>
     </Connection>
     <Connection>
       <Origin ToolID="4" Connection="Output" />
-      <Destination ToolID="13" Connection="Input" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="49" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="True" />
+      <Destination ToolID="49" Connection="Left" />
     </Connection>
     <Connection>
       <Origin ToolID="5" Connection="Output" />
@@ -1454,6 +1544,14 @@ week_start =...</DefaultAnnotationText>
     <Connection>
       <Origin ToolID="40" Connection="Output" />
       <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Join" />
+      <Destination ToolID="13" Connection="Input" />
     </Connection>
   </Connections>
   <Properties>
